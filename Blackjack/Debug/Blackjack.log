@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\albert\desktop\programming\projects\blackjack\blackjack\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\albert\desktop\programming\projects\blackjack\blackjack\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\albert\desktop\programming\projects\blackjack\blackjack\source.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\albert\desktop\programming\projects\blackjack\blackjack\source.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\albert\desktop\programming\projects\blackjack\blackjack\source.cpp(328): warning C4018: '<': signed/unsigned mismatch
+c:\users\albert\desktop\programming\projects\blackjack\blackjack\source.cpp(336): warning C4018: '<': signed/unsigned mismatch
+  Blackjack.vcxproj -> C:\Users\Albert\Desktop\Programming\Projects\Blackjack\Debug\Blackjack.exe
